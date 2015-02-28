@@ -1,1 +1,2 @@
 hello world ,it is my first git project!
+zhe shi dier hang !
